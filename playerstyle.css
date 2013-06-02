@@ -1,0 +1,30 @@
+#pagebox{
+	position: relative;
+	height: 290px;
+	width: 300px;
+	bottom: 130px;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+#a,#b{position: relative; top: 120px;}
+
+#a img,#b img{
+    float:left;
+    position: relative;
+}
+
+#b img{
+	padding-left: 24px;
+	bottom: 48px;
+	opacity:0.5;
+	filter:alpha(opacity=50); /* For IE8 and earlier */
+ }
+
+#b > a > img:hover{
+	opacity:1.0;
+	filter:alpha(opacity=100); /* For IE8 and earlier */
+}
+
+
