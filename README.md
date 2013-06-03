@@ -7,7 +7,9 @@ This is specially for our website partners.
 
 Code:
 ------
-[code]<iframe src="http://p.sfm.pw/" frameborder="0" scrolling="no" width="300" height="395">ERROR IN IFRAME</iframe>[code]
+```
+<iframe src="http://p.sfm.pw/" frameborder="0" scrolling="no" width="300" height="395">ERROR IN IFRAME</iframe>
+```
 
 
 Thanks to:
