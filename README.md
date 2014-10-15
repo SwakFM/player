@@ -14,4 +14,4 @@ Code:
 
 Thanks to:
 ------
-[Muses Radio Player](www.musesradioplayer.com)
+[Muses Radio Player](http://www.musesradioplayer.com)
